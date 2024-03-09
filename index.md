@@ -7,8 +7,8 @@ Esse projeto é um teste que fiz para melhorar meus conhecimentos em HTML e CSS.
 <br>
 
 <p align="center">
-  <img alt="Tela de login" src="/Captura de Tela (115).png" width="100%">
-  <img alt="Tela de cadatro" src="/Captura de Tela (116).png.png" width="100%">
+  <img alt="Tela de login" src="./preview/login.png" width="100%">
+  <img alt="Tela de cadatro" src="./preview/cadastro.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
