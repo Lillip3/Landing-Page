@@ -8,7 +8,6 @@ Esse projeto é um teste que fiz para melhorar meus conhecimentos em HTML e CSS.
 
 <p align="center">
   <img alt="Tela de login" src="./preview/login.png" width="100%">
-  <img alt="Tela de cadatro" src="./preview/cadastro.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,7 +22,7 @@ A tela de login e cadastro foi um desafio que fiz para mim mesma, queria ver at�
 
 Fiz eles responsivos usando o media queries e fiz alguns botões e links funcionarem para mudar de uma página para outra.
 
-- [Visite o projeto online]("#")
+- [Visite o projeto online]("https://lillip3.github.io/Landing-Page/")
 
 ## :memo: Licença
 
