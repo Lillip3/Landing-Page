@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A tela de login e cadastro foi um desafio que fiz para mim mesma, queria ver até onde conseguia ir, fiquei impressionada por ter coneguido terminar e ter ficado do jeito que eu quis, a expeiência foi maravilhosa!
 
-Fiz eles responsivos usando o media queries e fiz alguns botões e links funcionarem para mudar de uma página para outra.
+Fiz eles responsivos usando o media queries e fiz alguns botões e links funcionarem para mudar de uma página para outra. Baixe o código para ver completo.
 
 - [Visite o projeto online](https://lillip3.github.io/Landing-Page/)
 
